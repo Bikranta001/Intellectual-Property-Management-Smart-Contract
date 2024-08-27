@@ -1,6 +1,3 @@
-Here’s a `README.md` file that you can use for your Intellectual Property Management smart contract.
-
-```markdown
 # Intellectual Property Management on Blockchain
 
 ## Vision
@@ -86,6 +83,17 @@ The Intellectual Property Management (IPM) system leverages blockchain technolog
 - **Advanced Licensing**: Implement complex licensing models such as time-bound or region-specific licenses.
 - **IP Transfer**: Enable the transfer of IP ownership between users.
 - **Audit Trail**: Add an audit trail to track changes in IP ownership and licensing agreements.
+
+## Contact
+Name: S Bikranta Singha
+Email: bikrantasingha011@gmail.com
+
+## Deployment:
+
+Contract Address: 0x4b5f9610ee001c4f4e3bceacbb7f7ffb05fa8542
+![image](https://github.com/user-attachments/assets/5ca825f9-58aa-439f-8568-2770aa1155bf)
+
+
 
 ## License
 
