@@ -85,8 +85,7 @@ The Intellectual Property Management (IPM) system leverages blockchain technolog
 - **Audit Trail**: Add an audit trail to track changes in IP ownership and licensing agreements.
 
 ## Contact
-Name: S Bikranta Singha
-Email: bikrantasingha011@gmail.com
+For any queries contact: bikrantasingha011@gmail.com
 
 ## Deployment:
 
